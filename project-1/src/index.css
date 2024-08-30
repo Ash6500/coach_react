@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: Inter, sans-serif;
+    /* background-image: url(./assets/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position-x: right 75%; */
+    background: url(./assets/react-icon-large.png) no-repeat right;
+    background-color: #282D35;
+    height: 100vh;
+}
